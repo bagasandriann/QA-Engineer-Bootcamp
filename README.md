@@ -1,2 +1,2 @@
-# QA-Engineer-Bootcamp
-ini merupakan repository untuk menyimpan tugas-tugas selama mengikuti bootcamp QA Engineer
+# Homework Session 7 - QA-Engineer-Bootcamp
+ini merupakan repository dari homework session 7
